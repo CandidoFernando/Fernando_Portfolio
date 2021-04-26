@@ -44,8 +44,8 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 * * Resampling - Over Sampling
 
 #### Diversos modelos de previsão. Tais como:
-* * Random Florest
-* * Regressão Logistica
+*  Random Florest
+*  Regressão Logistica
 
 
 ![](/ti.jpg)
