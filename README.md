@@ -20,10 +20,11 @@ O projeto trata-se de um modelo de Regressão, no qual procuraremos prever despe
 ![](/LinearRegression2.png)
 
 
+
 ### Projeto Prevendo Nivel de Satisfação Clientes Santander usando Python!
 
 
-### [Projeto Python Classificação](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
+### [Projeto_Python_Classificação](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
 
 O projeto trata-se de um modelo de Classificação, no qual procuraremos prever nivel de sastifação dos clientes.
 
@@ -40,5 +41,8 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 #### Diversos modelos de previsão. Tais como:
 * * Random Florest
 * * Regressão Logistica
+
+
+![](/ti.jpg)
 
 
