@@ -14,3 +14,5 @@ E projeto trata-se de um modelo de Regressão, no qual procuraremos prever despe
 * Analise exploratória de dados
 * Tratando Outliers
 * Tratando valores missing
+
+![](/https://github.com/CandidoFernando/python/blob/master/Modelo%20de%20%20despesas-m2.ipynb)
