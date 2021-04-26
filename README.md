@@ -4,6 +4,11 @@ Formado em Ciência da Computação e certificado em ITIL, com vasto conheciment
 Tendo foco em suporte e análise de sistemas, com atuação na solução de incidentes e dúvidas operacionais dos usuários, buscando soluções e melhorias para cliente e empresa.
 Com uma boa relação interpessoal, devido aos anos de experiencia com o usuário, tenho grande habilidades na resolução de conflitos e facilidade para lidar com altas demandas no trabalho.
 
+Conheça meu perfil no Linkedin:
+
+[Fernando Silva Candido](https://www.linkedin.com/in/fernando-silva-candido-b90a5292/)
+
+
 
 # Projetos
 Abaixo estão alguns projetos desenvolvidos, com uma breve introdução das habilidades utilizados e lin para o projeto completo.
