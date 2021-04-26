@@ -16,4 +16,4 @@ E projeto trata-se de um modelo de Regressão, no qual procuraremos prever despe
 * Tratando valores missing
 
 
-![alt text](LinearRegression.svg.png)
+![](LinearRegression.svg.png)
