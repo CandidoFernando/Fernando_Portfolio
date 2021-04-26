@@ -15,4 +15,5 @@ E projeto trata-se de um modelo de Regressão, no qual procuraremos prever despe
 * Tratando Outliers
 * Tratando valores missing
 
-[](/python/blob/master/LinearRegression.svg.png)
+
+![alt text](LinearRegression.svg.png)
