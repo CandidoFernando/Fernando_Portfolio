@@ -10,7 +10,7 @@ Abaixo estão alguns projetos desenvolvidos, com uma breve introdução das habi
 
 ### [Projeto_Python_Regressão](https://github.com/CandidoFernando/python)
 
-E projeto trata-se de um modelo de Regressão, no qual procuraremos prever despesas Hospitalares
+O projeto trata-se de um modelo de Regressão, no qual procuraremos prever despesas Hospitalares
 
 * Analise exploratória de dados
 * Tratando Outliers
@@ -18,3 +18,27 @@ E projeto trata-se de um modelo de Regressão, no qual procuraremos prever despe
 
 
 ![](/LinearRegression2.png)
+
+
+### Projeto Prevendo Nivel de Satisfação Clientes Santander usando Python!
+
+
+### [Projeto Python Classificação](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
+
+O projeto trata-se de um modelo de Classificação, no qual procuraremos prever nivel de sastifação dos clientes.
+
+#### O que encontraremos nesse modelo:
+* Analise exploratória de dados
+* Tratando Outliers
+* Tratando valores missing
+* Normalização dos dados
+* Redução de dimensionalidade
+* Balanceamento dos dados
+* * Resampling - Under Sampling
+* * Resampling - Over Sampling
+
+#### Diversos modelos de previsão. Tais como:
+* * Random Florest
+* * Regressão Logistica
+
+
