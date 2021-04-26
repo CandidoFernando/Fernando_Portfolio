@@ -15,4 +15,4 @@ E projeto trata-se de um modelo de Regressão, no qual procuraremos prever despe
 * Tratando Outliers
 * Tratando valores missing
 
-![](/CandidoFernando/python/blob/master/Modelo%20de%20%20despesas-m2.ipynb)
+![](/https://github.com/CandidoFernando/python/blob/master/LinearRegression.svg.png)
