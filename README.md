@@ -16,4 +16,4 @@ E projeto trata-se de um modelo de Regressão, no qual procuraremos prever despe
 * Tratando valores missing
 
 
-![](https://github.com/CandidoFernando/python/blob/master/LinearRegression2.png)
+![](/LinearRegression2.png)
