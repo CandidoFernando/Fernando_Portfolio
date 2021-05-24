@@ -12,7 +12,7 @@ Conheça meu perfil no Linkedin:
 <br />
 
 # Projetos
-Abaixo estão alguns projetos desenvolvidos, com uma breve introdução das habilidades utilizados e lin para o projeto completo.
+Abaixo estão alguns projetos desenvolvidos, com uma breve introdução das habilidades utilizados e link para o projeto completo.
 <br />
 <br />
 
@@ -21,9 +21,13 @@ Abaixo estão alguns projetos desenvolvidos, com uma breve introdução das habi
 
 O projeto trata-se de um modelo de Regressão, no qual procuraremos prever despesas Hospitalares
 
+#### O que encontraremos nesse modelo:
 * Analise exploratória de dados
 * Tratando Outliers
 * Tratando valores missing
+
+#### Modelo de previsão:
+*  Regressão Linear
 
 
 ![](/LinearRegression2.png)
