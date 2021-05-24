@@ -61,7 +61,7 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 *  Python
 
 
-![](/sc.jpg)
+![](/sc.png)
 
 <br />
 <br />
@@ -88,4 +88,4 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 *  Python
 
 
-![](/tele.jpg)
+![](/tele.png)
