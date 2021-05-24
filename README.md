@@ -27,7 +27,10 @@ O projeto trata-se de um modelo de Regressão, no qual procuraremos prever despe
 * Tratando valores missing
 
 #### Modelo de previsão:
-*  Regressão Linear
+*  LinearRegression
+
+#### Linguagem utilizada:
+*  Python
 
 
 ![](/LinearRegression2.png)
@@ -50,9 +53,12 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 * * Resampling - Under Sampling
 * * Resampling - Over Sampling
 
-#### Diversos modelos de previsão. Tais como:
+#### Diversos modelos de previsão, tais como:
 *  Random Florest
 *  Regressão Logistica
+
+#### Linguagem utilizada:
+*  Python
 
 
 ![](/ti.jpg)
@@ -60,10 +66,9 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 <br />
 <br />
 
-### Projeto Customer Churn em uma Operadora de Telecom usando Python!
 
 
-### [Telecom](https://github.com/CandidoFernando/Customer_Churn_Telecom.git)
+### [Projeto Customer Churn em uma Operadora de Telecom](https://github.com/CandidoFernando/Customer_Churn_Telecom.git)
 
 O projeto trata-se de um modelo de Classificação, no qual procuraremos prever a rotatividade de clientes em uma operadora de telecom.
 
@@ -78,6 +83,9 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 
 #### Modelo de previsão:
 *  Regressão Logistica
+
+#### Linguagem utilizada:
+*  Python
 
 
 ![](/tele.jpg)
