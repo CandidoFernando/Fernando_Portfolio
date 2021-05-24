@@ -61,7 +61,7 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 *  Python
 
 
-![](/ti.jpg)
+![](/sc.jpg)
 
 <br />
 <br />
