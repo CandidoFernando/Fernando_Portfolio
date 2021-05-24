@@ -8,15 +8,16 @@ Conheça meu perfil no Linkedin:
 
 [Fernando Silva Candido](https://www.linkedin.com/in/fernando-silva-candido-b90a5292/)
 
-
+<br />
+<br />
 
 # Projetos
 Abaixo estão alguns projetos desenvolvidos, com uma breve introdução das habilidades utilizados e lin para o projeto completo.
 <br />
 <br />
 
-### Projeto sobre Despesas Hospitalares!
-### [Projeto_Python_Regressão](https://github.com/CandidoFernando/python)
+
+### [Projeto sobre Despesas Hospitalares](https://github.com/CandidoFernando/python)
 
 O projeto trata-se de um modelo de Regressão, no qual procuraremos prever despesas Hospitalares
 
@@ -30,10 +31,8 @@ O projeto trata-se de um modelo de Regressão, no qual procuraremos prever despe
 <br />
 <br />
 
-### Projeto Prevendo Nivel de Satisfação Clientes Santander usando Python!
 
-
-### [Projeto_Python_Classificação](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
+### [Projeto Prevendo Nivel de Satisfação Clientes](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
 
 O projeto trata-se de um modelo de Classificação, no qual procuraremos prever nivel de sastifação dos clientes.
 
