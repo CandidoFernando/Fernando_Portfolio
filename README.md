@@ -6,7 +6,7 @@ Com uma boa relação interpessoal, devido aos anos de experiencia com o usuári
 
 Conheça meu perfil no Linkedin:
 
-[Fernando Silva Candido](https://www.linkedin.com/in/fernando-silva-candido-b90a5292/)
+[Link: Fernando Silva Candido](https://www.linkedin.com/in/fernando-silva-candido-b90a5292/)
 
 <br />
 <br />
@@ -31,6 +31,8 @@ O projeto trata-se de um modelo de Regressão, no qual procuraremos prever despe
 
 #### Linguagem utilizada:
 *  Python
+
+Link do Projeto: (https://github.com/CandidoFernando/python)
 
 
 ![](/LinearRegression2.png)
