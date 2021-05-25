@@ -62,7 +62,7 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 #### Linguagem utilizada:
 *  Python
 
-Link do Projeto:[https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
+Link do Projeto: [https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
 ![](/sc.png)
 
 <br />
@@ -88,7 +88,7 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 
 #### Linguagem utilizada:
 *  Python
-*  
+
 Link do Projeto: [https://github.com/CandidoFernando/Customer_Churn_Telecom.git](https://github.com/CandidoFernando/Customer_Churn_Telecom.git)
 
 ![](/tele.png)
