@@ -32,7 +32,7 @@ O projeto trata-se de um modelo de Regressão, no qual procuraremos prever despe
 #### Linguagem utilizada:
 *  Python
 
-Link do Projeto: (https://github.com/CandidoFernando/python)
+Link do Projeto: [https://github.com/CandidoFernando/python](https://github.com/CandidoFernando/python)
 
 
 ![](/LinearRegression2.png)
@@ -62,7 +62,7 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 #### Linguagem utilizada:
 *  Python
 
-
+Link do Projeto:[https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
 ![](/sc.png)
 
 <br />
@@ -88,6 +88,7 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 
 #### Linguagem utilizada:
 *  Python
-
+*  
+Link do Projeto: [https://github.com/CandidoFernando/Customer_Churn_Telecom.git](https://github.com/CandidoFernando/Customer_Churn_Telecom.git)
 
 ![](/tele.png)
