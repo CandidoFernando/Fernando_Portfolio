@@ -41,9 +41,9 @@ Link do Projeto: [https://github.com/CandidoFernando/python](https://github.com/
 <br />
 
 
-### [Projeto Prevendo Nivel de Satisfação Clientes](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
+### [Projeto Prevendo Nivel de Satisfação de Clientes](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
 
-O projeto trata-se de um modelo de Classificação, no qual procuraremos prever nivel de sastifação dos clientes.
+O projeto trata-se de um modelo de Classificação, no qual procuraremos prever nivel de sastifação dos clientes de um banco.
 
 #### O que encontraremos nesse modelo:
 * Analise exploratória de dados
@@ -62,7 +62,9 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 #### Linguagem utilizada:
 *  Python
 
-Link do Projeto: [https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
+Link do Projeto: [https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git] (https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
+
+
 ![](/sc.png)
 
 <br />
@@ -90,5 +92,6 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 *  Python
 
 Link do Projeto: [https://github.com/CandidoFernando/Customer_Churn_Telecom.git](https://github.com/CandidoFernando/Customer_Churn_Telecom.git)
+
 
 ![](/tele.png)
