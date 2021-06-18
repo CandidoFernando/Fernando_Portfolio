@@ -22,7 +22,7 @@ Abaixo estão alguns projetos desenvolvidos, com uma breve introdução das habi
 O projeto trata-se de um modelo de Regressão, no qual procuraremos prever despesas Hospitalares
 
 #### O que encontraremos nesse modelo:
-* Analise exploratória de dados
+* Análise exploratória de dados
 * Tratando Outliers
 * Tratando valores missing
 
