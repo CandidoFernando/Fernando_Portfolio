@@ -2,7 +2,7 @@
 
 Formado em Ciência da Computação e certificado em ITIL, com vasto conhecimento em atendimento ao usuário final. 
 Tendo foco em suporte e análise de sistemas, com atuação na solução de incidentes e dúvidas operacionais dos usuários, buscando soluções e melhorias para cliente e empresa.
-Com uma boa relação interpessoal, devido aos anos de experiencia com o usuário, tenho grande habilidades na resolução de conflitos e facilidade para lidar com altas demandas no trabalho.
+Com uma boa relação interpessoal, devido aos anos de experiência com o usuário, tenho grande habilidades na resolução de conflitos e facilidade para lidar com altas demandas no trabalho.
 
 Conheça meu perfil no Linkedin:
 
@@ -12,7 +12,7 @@ Conheça meu perfil no Linkedin:
 <br />
 
 # Projetos
-Abaixo estão alguns projetos desenvolvidos, com uma breve introdução das habilidades utilizados e link para o projeto completo.
+Abaixo estão alguns projetos desenvolvidos, com uma breve introdução das habilidades utilizadas e link para o projeto completo.
 <br />
 <br />
 
@@ -41,12 +41,12 @@ Link do Projeto: [https://github.com/CandidoFernando/python](https://github.com/
 <br />
 
 
-### [Projeto Prevendo Nivel de Satisfação de Clientes](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
+### [Projeto Prevendo Nível de Satisfação de Clientes](https://github.com/CandidoFernando/Prevendo_Nivel_Satisfacao_Clientes_Santander.git)
 
-O projeto trata-se de um modelo de Classificação, no qual procuraremos prever nivel de sastifação dos clientes de um banco.
+O projeto trata-se de um modelo de Classificação, no qual procuraremos prever o nível de sastifação dos clientes de um banco.
 
 #### O que encontraremos nesse modelo:
-* Analise exploratória de dados
+* Análise exploratória de dados
 * Tratando Outliers
 * Tratando valores missing
 * Normalização dos dados
@@ -57,7 +57,7 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 
 #### Diversos modelos de previsão, tais como:
 *  Random Florest
-*  Regressão Logistica
+*  Regressão Logística
 
 #### Linguagem utilizada:
 *  Python
@@ -77,7 +77,7 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 
 #### O que encontraremos nesse modelo:
 * Nomeação de colunas
-* Analise exploratória de dados
+* Análise exploratória de dados
 * Tratando Outliers
 * Tratando valores missing
 * Balanceamento dos dados
